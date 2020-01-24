@@ -6,3 +6,11 @@ patch:
   SNYK-JS-LODASH-450202:
     - watson-developer-cloud > async > lodash:
         patched: '2020-01-24T12:04:06.745Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2020-01-24T12:05:57.756Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2020-01-24T12:05:57.756Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2020-01-24T12:05:57.756Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2020-01-24T12:05:57.756Z'
