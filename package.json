@@ -20,7 +20,7 @@
   "homepage": "https://github.com/filipedeschamps/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
-    "readline-sync": "^1.4.9",
+    "readline-sync": "^1.4.10",
     "sbd": "^1.0.14",
     "watson-developer-cloud": "^3.18.2",
     "snyk": "^1.279.1"
