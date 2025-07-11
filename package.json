@@ -21,9 +21,9 @@
   "dependencies": {
     "algorithmia": "^0.3.10",
     "readline-sync": "^1.4.9",
-    "sbd": "^1.0.14",
-    "watson-developer-cloud": "^3.18.2",
-    "snyk": "^1.279.1"
+    "sbd": "^1.0.19",
+    "watson-developer-cloud": "^4.0.1",
+    "snyk": "^1.1297.3"
   },
   "snyk": true
 }
